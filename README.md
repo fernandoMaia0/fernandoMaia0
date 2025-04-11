@@ -4,20 +4,24 @@
 - 💬 Faço faculdade de Sistema de Informação na UFVJM
 - 🤓 Aprendendo cada vez mas sobre Python, JAVA, Delphi.
 
-  <div style="display: inline_block"><br>
-  <img lign="center" alt="Fernando filezila" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
-  <img lign="center" alt="Fernando python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img lign="center" alt="Fernando javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img lign="center" alt="Fernando css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img lign="center" alt="Fernando html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img lign="center" alt="Fernando bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img lign="center" alt="Fernando Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img lign="center" alt="Fernando c++" height="40" width="40 "src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img lign="center" alt="Fernando Terminal " height="40" width="40 "src="https://img.icons8.com/ios-filled/100/000000/console.png"/>
-  <img lign="center" alt="Fernando git " height="40" width="40 " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img lign="center" alt="Fernando git " height="40" width="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img lign="center" alt="java" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  </div>
+<div style="display: inline-block"><br>
+  <img alt="filezilla" height="30" width="40" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
+  <img alt="python" height="30" width="40" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="javascript" height="30" width="40" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="css3" height="30" width="40" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="html5" height="30" width="40" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="bash" height="30" width="40" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img alt="linux" height="30" width="40" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img alt="c++" height="40" width="40" style="vertical-align:middle;" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img alt="terminal" height="40" width="40" style="vertical-align:middle;" src="https://img.icons8.com/ios-filled/100/000000/console.png"/>
+  <img alt="git" height="40" width="40" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="github" height="40" width="40" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="java" height="40" width="40" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="postgresql" height="40" width="40" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="mysql" height="40" width="40" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="spring" height="40" width="40" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+</div>
+
 
 <div >
   <a href="https://github.com/fernandoMaia0">

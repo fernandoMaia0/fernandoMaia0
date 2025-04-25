@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente trabalho como desenvolvedor de Sistemas 
 - 💬 Faço faculdade de Sistema de Informação na UFVJM
-- 🤓 Aprendendo cada vez mas sobre Python, JAVA, Delphi.
+- 🤓 Aprendendo cada vez mais sobre Python, JAVA, Delphi.
 
 <div style="display: inline-block"><br>
   <img alt="filezilla" height="30" width="40" style="vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />

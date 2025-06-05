@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente trabalho como desenvolvedor de Sistemas  
 - 💬 Faço faculdade de Sistema de Informação na UFVJM  
-- 🤓 Aprendendo cada vez mais sobre Python, Java, Delphi
+- 🤓 Aprendendo cada vez mais sobre Python, Java, Delphi, Springboot, Angular
 
 ### 🛠️ Tecnologias que uso:
 
@@ -22,6 +22,8 @@
   <img alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
 
 ### 📊 GitHub Stats
